@@ -3,6 +3,7 @@ from typing import List
 
 def get_requirements(file_path: str) -> List[str]:
     '''
+    This function will return the list of requirements
     Docstring for get_requirements
     :param file_path: Description
     :type file_path: str
